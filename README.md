@@ -1,4 +1,3 @@
-# aws-policies
 Serverless EBS Volume Snapshots using Lambda Functions
 Taking EBS snapshots is often a routine activity that is well suited to be automated using Lambda functions. So we are going to write a simple Boto3 script to trigger EBS Snapshots using AWS Lambda Functions
 
